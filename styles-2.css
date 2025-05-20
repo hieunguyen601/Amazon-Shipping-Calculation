@@ -1,0 +1,15 @@
+.js-cost-input {
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.calculate-button {
+    height: 44px;
+    width: 100px;
+    font-size: 15px;
+    background-color: rgb(21, 173, 21);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
